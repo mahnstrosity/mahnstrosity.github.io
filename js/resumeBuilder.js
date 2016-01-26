@@ -149,7 +149,7 @@ var projects = {
             'title': 'More Stuff To Throw',
             'dates': '2010 - Present',
             'description': 'More stuff to throw at bad guys.',
-            'images': ['images/batarang.jpeg', 'images/batarang.jpeg']
+            'images': ['images/batarang.jpeg', 'images/smokePellets.jpeg']
         },
 
         {
